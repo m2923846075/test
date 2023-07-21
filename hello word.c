@@ -5,6 +5,6 @@ printf("hello world!");
 =======
 printf("hello world");
 
-nit
+nite
 >>>>>>> main
 }

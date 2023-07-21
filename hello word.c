@@ -5,4 +5,6 @@ printf("hello world!");
 =======
 printf("hello world");
 >>>>>>> main
+
+not b
 }
